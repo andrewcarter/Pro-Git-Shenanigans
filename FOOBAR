@@ -2,3 +2,5 @@ foo(bar);
 bar(foo);
 
 foobar(42);
+
+flamingos->fly();
