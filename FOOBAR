@@ -4,3 +4,4 @@ bar(foo);
 foobar(42);
 
 flamingos->fly();
+flamingos->eat();
