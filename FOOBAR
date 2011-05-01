@@ -1,8 +1,19 @@
+#ifndef __FOOBAR_H__
+#define __FOOBAR_H__
+
+#include Footilities.h
+#include Flamingo.h
+#include Platypus.h
+
 foo(bar);
 bar(foo);
-
 foobar(42);
 
-platypus.swim();
+Flamingo flamingos = new Flamingo();
+Platypus platypus = new Platypus();
+
+platypus->swim();
 flamingos->fly();
 flamingos->eat();
+
+#endif // __FOOBAR_H__
