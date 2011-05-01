@@ -13,7 +13,9 @@ Flamingo flamingos = new Flamingo();
 Platypus platypus = new Platypus();
 
 platypus->swim();
+
 flamingos->fly();
 flamingos->eat();
+flamingos->walk();
 
 #endif // __FOOBAR_H__
