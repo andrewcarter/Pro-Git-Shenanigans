@@ -5,10 +5,6 @@
 #include Flamingo.h
 #include Platypus.h
 
-foo(bar);
-bar(foo);
-foobar(42);
-
 Flamingo flamingos = new Flamingo();
 Platypus platypus = new Platypus();
 
