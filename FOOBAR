@@ -9,12 +9,12 @@ int main() {
 	Flamingo* flamingo = new Flamingo();
 	Platypus* platypus = new Platypus();
 
-	platypus->swim();
-
 	flamingos->fly();
 	flamingos->eat();
 	flamingos->walk();
-
+	
+	platypus->swim();
+	
 	return 0;
 }
 
